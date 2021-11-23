@@ -43,3 +43,4 @@ if __name__ == '__main__':
         fn_bold= 'Roboto-Medium.ttf'
     )
     ClockApp().run()
+ 
